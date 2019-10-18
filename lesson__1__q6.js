@@ -17,4 +17,3 @@ if ((numBilet <= 999999) & (numBilet >= 100000)) {
 if (numBilet % 2) {
 
 }
-/* */ssdsd
