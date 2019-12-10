@@ -170,12 +170,12 @@ function renderCart() {
 
 }
 // функия подсчета суммы товаров в корзине
-let totalSumm = 0;
+let totalPrice = 0;
 
 function getTotalPriceCart() {
     userCart.forEach(elele => {
-        totalSumm += elele.price
+        totalPrice += elele.price
     })
-    let renderSumm = `<p>${totalSumm + ' $'}</p>`
-    document.querySelector('.cart-block').insertAdjacentHTML("beforeend", renderSumm);
+    let renderPrice = `<p>${totalPrice + ' $'}</p>`
+    document.querySelector('.cart-block').insertAdjacentHTML("beforeend", renderPrice);
 }
