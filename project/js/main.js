@@ -166,7 +166,7 @@ function renderCart() {
     document.querySelector(`.cart-block`).innerHTML = allProducts;
 
 
-    getTotalPriceCart() // запуск 
+    getTotalPriceCart() // запуск  подсчета суммы товаров в корзине
 
 }
 // функия подсчета суммы товаров в корзине
