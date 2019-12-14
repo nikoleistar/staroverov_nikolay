@@ -1,0 +1,42 @@
+[
+    {
+        "product_name": "Notebook",
+        "prices": 1000,
+        "id_product": 1
+    },
+    {
+        "product_name": "Display",
+        "prices": 200,
+        "id_product": 2
+    },
+    {
+        "product_name": "Keyboard",
+        "prices": 20,
+        "id_product": 3
+    },
+    {
+        "product_name": "Mouse",
+        "prices": 10,
+        "id_product": 4
+    },
+    {
+        "product_name": "Phones",
+        "prices": 25,
+        "id_product": 5
+    },
+    {
+        "product_name": "Router",
+        "prices": 30,
+        "id_product": 6
+    },
+    {
+        "product_name": "USB-camera",
+        "prices": 18,
+        "id_product": 7
+    },
+    {
+        "product_name": "Gamepad",
+        "prices": 24,
+        "id_product": 8
+    }
+]
